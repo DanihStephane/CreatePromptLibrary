@@ -116,7 +116,7 @@ Le repository `PromptRepository` propose deux méthodes de recherche :
 
 ## 📝 License
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+ `LICENSE` free: https://github.com/DanihStephane.
 
 ## 🆘 Support
 
